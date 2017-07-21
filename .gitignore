@@ -2,5 +2,10 @@
 .Release
 .obj
 .user
+.stash
 Release
 Debug
+Makefile
+Makefile.Release
+Makefile.Debug
+Makefile
